@@ -1,2 +1,2 @@
 # jHooah
-Distributed Data Mining Library on Java
+Distributed Data Mining Library on Java 
